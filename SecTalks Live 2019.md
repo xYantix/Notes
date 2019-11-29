@@ -1,4 +1,4 @@
-Re-Cap of the presentation is available via Twitch - https://www.twitch.tv/videos/513885075
+Recording of the presentation is available via Twitch if you'd like to understand the context in which these tools were mentioned - https://www.twitch.tv/videos/513885075
 
 ### Scaling
 
